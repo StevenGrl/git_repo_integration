@@ -24,6 +24,12 @@ project :
   identifier : 0x45fd6871001fbc19
   elements :
    -
+     name : CL_Test
+     identifier : 0x45fd699800493ca0
+     internal_properties : CQAAAAkAAACPi+c7CLX9Ljpo9mmI9BqMrTpwcLBE+Waysl7BrJl9U+UfR/VBv+lEW8A6hg7CvjKamg==
+     physical_name : .\git_repo_integrated\CL_Test.wdc
+     type : 4
+   -
      name : FEN_test
      identifier : 0x45fd6891003b37f0
      internal_properties : CQAAAAkAAACU8vw4h/y0tw1/7PkxR5x3EE1PJwO/tSGO243TiG0nOY8DyW7YIFErctfBP8c5wTeBgQ==
